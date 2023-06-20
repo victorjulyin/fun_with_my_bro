@@ -2,7 +2,7 @@ import time
 from random import randint
 
 for i in reversed(range(1,4)):
-    time.sleep(0.2)
+    time.sleep(1)
     print(i)
 
 movies = {
